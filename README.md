@@ -1,4 +1,4 @@
-🏦 Bank Customer Churn Analysis
+🏥 Healthcare Analysis
 
 _A data-driven analysis project focused on identifying customer churn drivers and building actionable retention strategies for a retail banking environment using Power BI._
 
@@ -74,8 +74,8 @@ Internal HR dataset provided as:
 ---
 
 ## Tools and Technologies
+- SQL – Data cleaning
 - Power BI – Data visualization & dashboard
-- Excel – Pre-validation and light data review
 
 ---
 
@@ -165,7 +165,7 @@ The Power BI dashboard includes:
    - Balance Buckets
 
 Dashboard file:  
-📁 <img width="918" height="518" alt="Churn_Analysis" src="https://github.com/komalb30/Bank-Churn-Analysis/blob/main/dashboard/Churn_Analysis.png" />
+📁 <img width="918" height="518" alt="Churn_Analysis" src="https://github.com/komalb30/.png" />
 
 ---
 
@@ -174,6 +174,4 @@ Dashboard file:
 - Inactive customers
 - Track campaign success metrics
 - Loyalty incentives for long-tenure users
-
-
 
